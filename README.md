@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **full stack projects**
 
-- 🤝 I’m looking for help with **AI**
-
 - 📫 How to reach me **addadfetheddine@gmail.com**
 
 - 📄 Know about my experiences computer science student & devloper
