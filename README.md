@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fetheddine</h1>
 <h3 align="center">A passionate about tech & front end developer</h3>
-img align="right" alt="Coding" width="400" src="image.gif"
+<img align="right" alt="Coding" width="400" src="image.gif"/>
 - 🔭 I’m currently working on **Upgrading skills**
 
 - 🌱 I’m currently learning **Backend and machine learning**
