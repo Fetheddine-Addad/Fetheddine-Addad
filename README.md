@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on **full stack projects**
 
-- 📫 How to reach me **addadfetheddine@gmail.com**
+- 📫 How to reach me **addadfetheddine@proton.me**
 
 - 📄 Know about my experiences computer science student & devloper
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/fetheddine-addad-34a408221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fetheddine-addad-34a408221/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fetheddine-addad-34a408221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fetheddine-addad-34a408221/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17430325/fetheddine-addad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17430325/fetheddine-addad" height="30" width="40" /></a>
 </p>
 
