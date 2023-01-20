@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **addadfetheddine@gmail.com**
 
-- 📄 Know about my experiences [computer science student & devloper](computer science student & devloper)
+- 📄 Know about my experiences computer science student & devloper
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
