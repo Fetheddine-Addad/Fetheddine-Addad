@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **addadfetheddine@proton.me**
 
-- 📄 devloper & computer science student
+- 📄 Web devloper & computer science student
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
