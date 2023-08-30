@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **addadfetheddine@proton.me**
 
-- 📄 Web devloper & computer science student
+- 📄 Web developer, AI enthusiast & computer science student
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
