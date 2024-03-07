@@ -5,9 +5,9 @@
 
 - 👯 Open to Collaboration and Opportunities
 
-- 📫 How to reach me **addadfetheddine@proton.me**
+- 📫 How to reach me **addadfetheddine@outlook.com**
 
-- 📄 Web developer, AI enthusiast & computer science student
+- 📄 python developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
